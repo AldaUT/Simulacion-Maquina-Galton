@@ -35,4 +35,4 @@ def graficar_histograma(resultados, niveles=12):
 
 # Ejecutar simulación y graficar
 resultados = simulacion_galton()  # Simula la caída de las canicas
-graficar_histograma(resultados)  # Genera el gráfico con los resultados
+graficar_histograma(resultados)  # Genera el gráfico con los resultado
